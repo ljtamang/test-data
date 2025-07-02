@@ -1,5 +1,7 @@
 # Research Plan for 2022-08 Comparison Tool Enhancements - Survey 
 
+# FILE EDITED
+
 This research request comes from the Digital GI Bill team for the Veterans Benefits Administration Education Service. Digital GI Bill looks to modernize the GI Bill experience in order to improve the user experience, improve claims processing, address the complexities of recent legislation, and integrate the legacy IT systems. This research plan comes from the Human Centered Design (HCD) agile team as we look to conduct usability testing for a feature within VA education, The Comparison Tool. Usability testing will inform us how students can learn about and compare their GI Bill benefits at approved schools, employers and VET TEC providers. 
 
 ## Background
